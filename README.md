@@ -6,16 +6,16 @@ The purpose of this project is to analyse previous seasons of the Premier League
 
 The project aims to address the following questions:
 
--What is the relationship between shots on target (SoT) and goals scored?
--What team Captain was the most effecitve over the course of the two seasons? (Wins, Goal Contributions)
--Can shooting statistics predict match outcomes?
+- What is the relationship between shots on target (SoT) and goals scored?
+- What team Captain was the most effecitve over the course of the two seasons? (Wins, Goal Contributions)
+- Can shooting statistics predict match outcomes?
 
 ### Methods Used
 
--Web Scraping
--Data Integration
--Data Visulization
--Machine Learning
+- Web Scraping
+- Data Integration
+- Data Visulization
+- Machine Learning
 
 ### Setup
 
