@@ -20,7 +20,7 @@ The project aims to address the following questions:
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/premier-league-data-analytics.git
+git clone https://github.com/NathanSmallcalder/PremierLeagueData
 ```
 
 ```bash
