@@ -9,6 +9,8 @@ The project aims to address the following questions:
 - What is the relationship between shots on target (SoT) and goals scored?
 - What team Captain was the most effecitve over the course of the two seasons? (Wins, Goal Contributions)
 - Can shooting statistics predict match outcomes?
+- What was the most popular formation?
+- Which team won the most games?
 
 ### Methods Used
 
