@@ -32,6 +32,16 @@ pip install -r requirements.txt
 ```bash
 python premierLeagueData.py
 ```
+### Data Cleaning
+
+Insert a collumn before the "formation" collumn located at R1 with the following formula;
+
+```
+=SUBSTITUTE(R1, "â—†", "")
+```
+
+
+
 
 ### Acknowledgments
 
