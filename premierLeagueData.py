@@ -78,8 +78,8 @@ for year in years:
 team_url.split("/")[-1].replace("-Stats","").replace("-"," ")
 match_df = pd.concat(all_matches)
 match_df.columns = [c.lower() for c in match_df.columns]
-match_df.to_csv("matches2023.csv")
-match_df.head()
 
 for rows in match_df:
     rows['formation'] = rows['formation'].replace('-', ' ')
+    
+match_df.to_csv("matches2023.csv")
